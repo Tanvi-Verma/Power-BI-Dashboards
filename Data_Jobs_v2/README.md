@@ -29,6 +29,6 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ### Page 1: High-Level Market View
 
-![Dashboard](/Images/Project%202%20page%201.png)
+![Dashboard](/Images/Project%202.png)
 
 This dashboard showcases Job Count (with a choice to view as percentage or number) of top skills and Median Salary (Yearly or Hourly) of data jobs. Additional dropdown slicers help to select one or more job titles in one or more countries. 

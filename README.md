@@ -22,7 +22,8 @@ Key Power BI Skills Utilized
 
 ## Dashboard 2.0
 
-![Dahboard ](/Images/Project%202%20page%201.png)
+![Dahboard ](/Images/Project%202.png)
+
 
 Skills Showcased
 
