@@ -9,7 +9,7 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 ## Skills Showcased
 
 
-- **📊 Core Charts:** Utilized **Column, Bar, Line, and Area Charts** to compare job counts adn track trends over time.
+- **📊 Core Charts:** Utilized **Column, Bar, Line, and Area Charts** to compare job counts and track trends over time.
 - **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
 - 🔢 **KPI Indicators and  Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
 - 🎨 **Dashboard Design:** Designed an intutive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story. 
@@ -25,7 +25,7 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ![Dahboard Page 1](/Images/Project%201%20page%201.png)
 
-This is your mission control for the data job market. It showcases key KPIs like totla job count, median salaries, and top job titles to give a quick understanding of what's happening in the job market at a glance. 
+ It showcases key KPIs like totla job count, median salaries, and top job titles to give a quick understanding of what's happening in the job market at a glance. 
 
 ### Page 2: Job Title Drill Through
 
